@@ -1,7 +1,15 @@
+<<<<<<< HEAD
+.cabeçalho{background-color: #C60909; color: white; display: flex; justify-content: space-around;}
+.imagem-logo{width: 80px;}
+.cabeçalho-lista{display: inline-block; margin: 0 16px;}
+.site{background-color: rgba(255, 255, 255, 0.671);color: #C60909;}
+.imagem-jogadores{width: 180px; height: 130px;}
+=======
 .cabeçalho{background-color: #C60909; color: white; text-align: center;}
 .cabeçalho-lista{text-align:left;} 
-.site{background-color: rgba(255, 255, 255, 0.671);color: #ff0000;}
+.site{background-color: rgba(255, 255, 255, 0.671);color: #000000;}
 .imagem-ivasko{width: 250px; height: 300px;}
+>>>>>>> 0d95796f2c73004c1341b94fffc96e2872c889cb
 .rodape{background-color: #C60909; color: white; display: flex; justify-content: space-around;}
 .jogadores-div{display: inline-block;}
 .clube{text-align: center; font-weight: 700; font-size: 20px;}
