@@ -1,18 +1,18 @@
-<<<<<<< HEAD
-.cabeçalho{background-color: #C60909; color: white; display: flex; justify-content: space-around;}
-.imagem-logo{width: 80px;}
-.cabeçalho-lista{display: inline-block; margin: 0 16px;}
-.site{background-color: rgba(255, 255, 255, 0.671);color: #C60909;}
-.imagem-jogadores{width: 180px; height: 130px;}
-=======
-.cabeçalho{background-color: #C60909; color: white; text-align: center;}
+
+.cabeçalho{background-color: #eb2fbc; color: rgb(2, 2, 2); text-align: center;}
 .cabeçalho-lista{text-align:left;} 
-.site{background-color: rgba(255, 255, 255, 0.671);color: #000000;}
+.site{background-color: rgba(231, 106, 175, 0.671);color: #000000;}
 .imagem-ivasko{width: 250px; height: 300px;}
->>>>>>> 0d95796f2c73004c1341b94fffc96e2872c889cb
 .rodape{background-color: #C60909; color: white; display: flex; justify-content: space-around;}
 .jogadores-div{display: inline-block;}
 .clube{text-align: center; font-weight: 700; font-size: 20px;}
-.jogadores{text-align: center;}
 .imagem-adoção{width: 250px; height: 300px;}
 .imagem-adoção1{width: 400px; height: 300px;}
+.sobre{text-align: justify;}
+.sobre-titulo{text-align: center;}
+.Histórias{text-align: justify;}
+.Histórias-título{text-align: center;}
+.ong4patas{text-align: center;}
+.campanhaivasko{text-align: center;}
+.ong-div{text-align: center;}
+.campanha-div{text-align: center;}
