@@ -1,9 +1,9 @@
 
-.cabeçalho{background-color: #eb2fbc; color: rgb(2, 2, 2); text-align: center;}
+.cabeçalho{background-color: #fecccc; color: rgb(2, 2, 2); text-align: center;}
 .cabeçalho-lista{text-align:left;} 
-.site{background-color: rgba(231, 106, 175, 0.671);color: #000000;}
+.site{background-color: #ffffff(166, 7, 7);color: #000000;}
 .imagem-ivasko{width: 250px; height: 300px;}
-.rodape{background-color: #C60909; color: white; display: flex; justify-content: space-around;}
+.rodape{background-color: #fecccc; color: white; display: flex; justify-content: space-around;}
 .jogadores-div{display: inline-block;}
 .clube{text-align: center; font-weight: 700; font-size: 20px;}
 .imagem-adoção{width: 250px; height: 300px;}
