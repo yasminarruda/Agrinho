@@ -1,8 +1,8 @@
 
-.cabeçalho{background-color: #fecccc; color: rgb(2, 2, 2); text-align: center;}
+.cabeçalho{background-color: #fecccc; color: rgb(2, 2, 2); text-align: center; font-style: oblique;}
 .cabeçalho-lista{text-align:left;} 
 .site{background-color: #ffffff(166, 7, 7);color: #000000;}
-.sobre-titulo{text-align: center;}
+.sobre-titulo{text-align: center; font-style: oblique;}
 .imagem-ivasko{width: 250px; height: 300px;}
 .rodape{background-color: #fecccc; color: rgb(0, 0, 0); text-align: center;}
 .clube{text-align: center; font-weight: 700; font-size: 20px;}
@@ -10,8 +10,8 @@
 .imagem-adoção1{width: 400px; height: 300px;}
 .sobre{text-align: justify;}
 .Histórias{text-align: justify;}
-.Histórias-título{text-align: center;}
-.ong4patas{text-align: center;}
-.campanhaivasko{text-align: center;}
+.Histórias-título{text-align: center; font-style: oblique;}
+.ong4patas{text-align: center; font-style: oblique;}
+.campanhaivasko{text-align: center; font-style: oblique;}
 .ong-div{text-align: center;}
 .campanha-div{text-align: center;}
