@@ -2,14 +2,13 @@
 .cabeçalho{background-color: #fecccc; color: rgb(2, 2, 2); text-align: center;}
 .cabeçalho-lista{text-align:left;} 
 .site{background-color: #ffffff(166, 7, 7);color: #000000;}
+.sobre-titulo{text-align: center;}
 .imagem-ivasko{width: 250px; height: 300px;}
-.rodape{background-color: #fecccc; color: white; display: flex; justify-content: space-around;}
-.jogadores-div{display: inline-block;}
+.rodape{background-color: #fecccc; color: rgb(0, 0, 0); text-align: center;}
 .clube{text-align: center; font-weight: 700; font-size: 20px;}
 .imagem-adoção{width: 250px; height: 300px;}
 .imagem-adoção1{width: 400px; height: 300px;}
 .sobre{text-align: justify;}
-.sobre-titulo{text-align: center;}
 .Histórias{text-align: justify;}
 .Histórias-título{text-align: center;}
 .ong4patas{text-align: center;}
